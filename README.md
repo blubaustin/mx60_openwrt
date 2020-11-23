@@ -8,3 +8,5 @@ Here are the following changes:
 * All themes except one included, the one theme I disabled is broken
 * SQM/QOS included
 * Compiled with GCC 9.3.0
+* Added Bcp38
+* banIP support
