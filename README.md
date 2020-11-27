@@ -13,6 +13,6 @@ Here are the following changes:
 * banIP support
 
 ![Image of TCPControl](https://cdn.discordapp.com/attachments/451221179995389953/781512081106927626/tcp_control.jpg)
-![Image of BanIP](https://i.ibb.co/r7pkW1m/banip.png)
-![Image of BCP39](https://i.ibb.co/yQF37vW/bcp38.png)
-![Image of QOS](https://i.ibb.co/vmcv5W8/sqm-qos.png)
+![Image of BanIP](https://ibb.co/6ntYdfm)
+![Image of BCP39](https://ibb.co/71t9LM2)
+![Image of QOS](https://ibb.co/QnJjBVG)
