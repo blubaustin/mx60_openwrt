@@ -7,7 +7,8 @@ Here are the following changes:
 * Nano editor included
 * All themes except one included, the one theme I disabled is broken
 * SQM/QOS included
-* Compiled with GCC 9.3.0
+* Compiled with GCC 10
+* Binutils 2.35.1
 * Added Bcp38
 * banIP support
 ![Image of TCPControl](https://cdn.discordapp.com/attachments/451221179995389953/781512081106927626/tcp_control.jpg)
